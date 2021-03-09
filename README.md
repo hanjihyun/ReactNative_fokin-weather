@@ -7,6 +7,7 @@ C:\Users\HOME>npm -v
 C:\Users\HOME>npm install -g expo-cli
 
 - expo init (Project명)
+
 C:\Users\HOME\Application>expo init fokin-weather
 
 - cd fokin-weather
